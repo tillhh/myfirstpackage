@@ -1,0 +1,16 @@
+{
+    "name": "tillhh/myFirstPackage",
+    "description": "Just my first experiment to the glory php world",
+    "autoload": {
+        "psr-4": {
+            "DateRanger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tillmann Schiffler",
+            "email": "tillmann.schiffler@gmail.com"
+        }
+    ],
+    "require": {}
+}
