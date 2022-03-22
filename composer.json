@@ -1,5 +1,5 @@
 {
-    "name": "tillhh/myFirstPackage",
+    "name": "tillhh/myfirstpackage",
     "description": "Just my first experiment to the glory php world",
     "autoload": {
         "psr-4": {
